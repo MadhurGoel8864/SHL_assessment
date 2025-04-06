@@ -44,8 +44,7 @@ def load_llm(huggingface_repo_id, HF_TOKEN):
 #     )
 #     return llm
 
-from getpass import getpass
-import os
+
 HF_TOKEN ="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"
 
 def main():
